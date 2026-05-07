@@ -2,8 +2,8 @@ name: Generate AI Robot Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Her gece saat 00:00'da çalışır
-  workflow_dispatch: # İstersen GitHub üzerinden manuel de tetikleyebilirsin
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,17 +11,17 @@ jobs:
 
     steps:
       - name: Repoyu Klonla
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Python Ortamını Kur
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
       - name: SVG Scriptini Çalıştır
         run: python generate_animation.py
 
-      - name: Yeni Animasyonu Repoya Pushla (Değişiklik varsa)
+      - name: Yeni Animasyonu Repoya Pushla
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
