@@ -16,15 +16,11 @@ Problem çözmeyi ve teorik bilgileri gerçek dünya senaryolarına uygulamayı 
 *   **Yazılım Stajyeri** @ OSTİM Teknik Üniversitesi
 
 ### 🛠️ Kullandığım Teknolojiler ve Araçlar
-*(Aşağıdaki robotların taşıdığı kütüphaneler, projelerimde sıkça başvurduğum donanım ve yazılım cephaneliğimi temsil ediyor!)*
+*(Aşağıdaki robotların taşıdığı kütüphaneler, projelerimde sıkça başvurduğum donanım ve yazılım cephaneliğimi temsil ediyor)*
 
 <div align="center">
   <img src="robot-animasyon.svg" alt="Yapay Zeka Robotları Geçit Töreni" />
 </div>
 
-### ⚡ Kodlama Dışında...
-*   Donanımlarla (Raspberry Pi, GPU mimarileri) ilgilenmeyi ve performans karşılaştırmaları yapmayı severim.
-*   İyi bir hayatta kalma/sandbox (survival/crafting) ve RPG oyunları tutkunuyum.
-*   Mutfakta zaman geçirmeyi, özellikle çikolata ve kakao ağırlıklı yeni tatlılar denemeyi çok severim!
 
-📫 **Bana Ulaşın:** [[LinkedIn Profilin](https://www.linkedin.com/in/emircabalak/)](#)
+📫 **Bana Ulaşın:** [[LinkedIn Profilim](https://www.linkedin.com/in/emircabalak/)](#)
