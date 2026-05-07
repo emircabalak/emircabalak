@@ -27,4 +27,4 @@ Problem çözmeyi ve teorik bilgileri gerçek dünya senaryolarına uygulamayı 
 *   İyi bir hayatta kalma/sandbox (survival/crafting) ve RPG oyunları tutkunuyum.
 *   Mutfakta zaman geçirmeyi, özellikle çikolata ve kakao ağırlıklı yeni tatlılar denemeyi çok severim!
 
-📫 **Bana Ulaşın:** [LinkedIn Profilin](#) | [E-posta Adresin](#)
+📫 **Bana Ulaşın:** [[LinkedIn Profilin](https://www.linkedin.com/in/emircabalak/)](#)
