@@ -1,4 +1,4 @@
-# Selamlar, Ben Emir Çabalak.
+# Selamlar, Ben Emir Çabalak
 
 OSTİM Teknik Üniversitesi'nde 3. sınıf Yapay Zeka Mühendisliği öğrencisiyim. Verinin gücüne inanıyor; özellikle **Derin Öğrenme (Deep Learning)**, **Bilgisayarlı Görü (Computer Vision)** ve **Doğal Dil İşleme (NLP)** alanlarında araştırmalar yapıp projeler geliştiriyorum. 
 
@@ -23,4 +23,4 @@ Problem çözmeyi ve teorik bilgileri gerçek dünya senaryolarına uygulamayı 
 </div>
 
 
-📫 **Bana Ulaşın:** [[LinkedIn Profilim](https://www.linkedin.com/in/emircabalak/)](#)
+📫 **Bana Ulaşın:** [[LinkedIn Profilim](https://www.linkedin.com/in/emircabalak/)]
