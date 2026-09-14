@@ -1,26 +1,24 @@
-# Selamlar, Ben Emir Çabalak
-
-OSTİM Teknik Üniversitesi'nde 3. sınıf Yapay Zeka Mühendisliği öğrencisiyim. Verinin gücüne inanıyor; özellikle **Derin Öğrenme (Deep Learning)**, **Bilgisayarlı Görü (Computer Vision)** ve **Doğal Dil İşleme (NLP)** alanlarında araştırmalar yapıp projeler geliştiriyorum. 
-
-Problem çözmeyi ve teorik bilgileri gerçek dünya senaryolarına uygulamayı seviyorum.
-
-### Neler Üzerine Çalışıyorum?
-*   Denetimsiz Ağ Saldırı Tespit Sistemi (IDS): KDD Cup 99 veri seti kullanılarak geliştirilen bu projede, derin otokodlayıcı (Deep Autoencoder) mimarisi ile normal ağ trafiği öğrenilerek %99 geri çağırma (recall) oranıyla sıfırıncı gün (Zero-Day) saldırıları ve anormallikler başarıyla tespit edilmektedir.
-*   Güven Skoru Destekli BEVNet: KITTI veri seti üzerinde eğitilen bu projede, standart Bird’s Eye View (BEV) ağ mimarisine ek olarak modelin tahminlerine dair doğruluk güvenini ölçen bir güven skoru (confidence score) katmanı entegre edilerek nesne tespit süreçlerinin güvenilirliği optimize edilmiştir.
-*   Endüstriyel Akustik Verilerde LOF Tabanlı Anomali Tespiti: Endüstriyel makine sesleri üzerinden denetimsiz öğrenme yöntemleriyle arıza tespiti yapan bu çalışmada; LOF, One-Class SVM ve Deep Autoencoder modelleri kıyaslanarak, arıza verisine ihtiyaç duymadan sadece normal çalışma sesleri üzerinden anomali tespiti gerçekleştirilmiştir.
-
-### Deneyimlerim
-*   **Görüntü İşleme Stajyeri** @ Mavinci Bilişim
-*   **Makine Öğrenmesi Stajyeri** @ Şişli Hamza Saruhan Mesleki Eğitim Merkezi
-*   **Yazılım Stajyeri** @ GAP İnşaat
-*   **Yazılım Stajyeri** @ OSTİM Teknik Üniversitesi
-
-### Kullandığım Teknolojiler ve Araçlar
-*(Aşağıdaki robotların taşıdığı kütüphaneler, projelerimde sıkça başvurduğum donanım ve yazılım cephaneliğimi temsil ediyor)*
-
+# Hi there, I'm Emir Çabalak
+ 
+I'm a 3rd-year Artificial Intelligence Engineering student at OSTİM Technical University. I believe in the power of data; I conduct research and develop projects especially in **Deep Learning**, **Computer Vision**, and **Natural Language Processing**.
+ 
+I love solving problems and applying theoretical knowledge to real-world scenarios.
+ 
+### What Am I Working On?
+*   Unsupervised Network Intrusion Detection System (IDS): In this project developed using the KDD Cup 99 dataset, a Deep Autoencoder architecture is used to learn normal network traffic, successfully detecting Zero-Day attacks and anomalies with a 99% recall rate.
+*   Confidence Score-Enhanced BEVNet: In this project trained on the KITTI dataset, a confidence score layer measuring the reliability of the model's predictions is integrated in addition to the standard Bird's Eye View (BEV) network architecture, optimizing the reliability of object detection processes.
+*   LOF-Based Anomaly Detection on Industrial Acoustic Data: In this study that performs fault detection on industrial machine sounds using unsupervised learning methods, LOF, One-Class SVM, and Deep Autoencoder models are compared, enabling anomaly detection based solely on normal operating sounds without the need for fault data.
+### My Experience
+*   **Image Processing Intern** @ Mavinci Bilişim
+*   **Machine Learning Intern** @ Şişli Hamza Saruhan Vocational Training Center
+*   **Software Intern** @ GAP İnşaat
+*   **Software Intern** @ OSTİM Technical University
+### Technologies and Tools I Use
+*(The libraries carried by the robots below represent the hardware and software arsenal I frequently draw on in my projects)*
+ 
 <div align="center">
-  <img src="robot-animasyon.svg" alt="Yapay Zeka Robotları Geçit Töreni" />
+  <img src="robot-animasyon.svg" alt="AI Robots Parade" />
 </div>
-
-
-📫 **Bana Ulaşın:** [[LinkedIn Profilim](https://www.linkedin.com/in/emircabalak/)]
+ 
+📫 **Contact Me:** [[My LinkedIn Profile](https://www.linkedin.com/in/emircabalak/)]
+ 
