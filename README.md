@@ -8,7 +8,8 @@ and negative results reported alongside the positive ones.
 
 **[adaptive-traffic-forecasting](https://github.com/emircabalak/adaptive-traffic-forecasting)**: online adaptation of a Graph WaveNet traffic forecaster during sudden disruptions.
 - Reproduces the paper (test MAE 2.70 / 3.10 / 3.53 vs. reported 2.69 / 3.07 / 3.53).
-- An error decomposition shows at most 18% of the 60-minute error is reachable by *any* online update. A per-sensor adapter improves disrupted-period MAE without hurting normal periods. Naive fine-tuning makes things 3.4 mph worse.
+- An error decomposition shows at most 18% of the 60-minute error is reachable by *any* online update. Naive fine-tuning makes things 3.4 mph worse.
+- My learned per-sensor adapter helps, with a CI that excludes zero, but a 3-line EWMA bias correction matches it (paired difference CI includes zero). I reported that too.
 - 27 pre-registered experiments in [`docs/EXPERIMENTS.md`](https://github.com/emircabalak/adaptive-traffic-forecasting/blob/main/docs/EXPERIMENTS.md).
 
 **[flyrank-ml-internship](https://github.com/emircabalak/flyrank-ml-internship)**: ranking which pages editors should refresh first (FlyRank internship, anonymized search data).
