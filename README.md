@@ -19,6 +19,10 @@ and negative results reported alongside the positive ones.
 **[uncertainty-aware-3d-detection](https://github.com/emircabalak/uncertainty-aware-3d-detection)**: evidential uncertainty for LiDAR 3D detection on KITTI.
 - Swapping in a pretrained backbone raises mAP from 37% to 55%, but the uncertainty signal stops separating true from false positives (AUROC 0.69 → ~0.50).
 
+**[Machine_Learning_Final_Project](https://github.com/emircabalak/Machine_Learning_Final_Project)**: re-evaluating my own course project.
+- My autoencoder intrusion detector reported 99% recall on KDD Cup 99. Under a sound protocol (deduplicated NSL-KDD, official test split, thresholds from held-out normal traffic) it gets 57.5% at 2.8% false alarms.
+- A plain Isolation Forest beats it on every metric, including attack types never seen in training.
+
 **[emircabalak.github.io](https://emircabalak.github.io)**: write-ups on evaluation mistakes, plus an in-browser leakage checker.
 
 ## Contact
