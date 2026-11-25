@@ -13,7 +13,7 @@ and negative results reported alongside the positive ones.
 
 **[flyrank-ml-internship](https://github.com/emircabalak/flyrank-ml-internship)**: ranking which pages editors should refresh first (FlyRank internship, anonymized search data).
 - Client-grouped CV on 30k pages / 32 clients. Precision@50 is 0.81 vs. 0.66 for the strongest rule baseline (base rate 0.60).
-- Leakage ablation: AUC climbs from 0.63 (honest) to 0.95 and then 0.997 as leaky windows are added.
+- Then I tried to break it. A 3-column model of last month's traffic matches the full model's AUC (0.623 vs 0.627), so most of the skill is regression to the mean, not content signals.
 
 **[uncertainty-aware-3d-detection](https://github.com/emircabalak/uncertainty-aware-3d-detection)**: evidential uncertainty for LiDAR 3D detection on KITTI.
 - Swapping in a pretrained backbone raises mAP from 37% to 55%, but the uncertainty signal stops separating true from false positives (AUROC 0.69 → ~0.50).
